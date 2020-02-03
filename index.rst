@@ -1,6 +1,6 @@
 
-Welcome to API's documentation!
-===============================
+Welcome to A Model TicketSwap API documentation
+===============================================
 
 
 .. toctree::
