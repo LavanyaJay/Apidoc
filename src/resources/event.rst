@@ -130,7 +130,7 @@ Retrieve a single event by event id.
 .. raw:: html
 
    <div class='cli'>
-   `http://localhost:5000/events/4`
+   http: GET:5000/events/4
    </div>
 
 Arguments

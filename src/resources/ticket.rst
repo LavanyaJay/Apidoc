@@ -120,7 +120,7 @@ Retrieve a single ticket by ticket id.
 .. raw:: html
 
    <div class='cli'>
-   `http: GET :5000/events/1/tickets/1`
+   http: GET :5000/events/1/tickets/1
    </div>
 
 Arguments
@@ -198,7 +198,7 @@ Returns
 .. code-block:: json
 
      {
-        "id": 3 
+        "id": 3,
         "eventId": 1,
         "tktAuthor": "User-3",
         "tktDesc": "Premier Pass",
